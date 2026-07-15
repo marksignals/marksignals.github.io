@@ -2,11 +2,11 @@
 
 Public website and product samples for [Mark Signals](https://marksignals.github.io/).
 
-Mark Signals eliminates repetitive monitoring work with source-linked intelligence. Public samples contain only records intentionally selected for publication. Paid member issues and operational credentials must never be committed to this repository.
+Mark Signals publishes market intelligence from public records, with direct links to the original source. Public samples contain only records selected for publication. Paid issues and operational data must never be committed to this repository.
 
 ## Publishing boundary
 
 - Public brand, policy, method, and sample pages belong here.
 - Paid issues, customer records, outreach logs, tokens, and internal pipeline state do not.
-- Every material signal links to its identified primary source.
+- Every published record links to its original source.
 - GitHub Pages publishes the `main` branch from the repository root.
